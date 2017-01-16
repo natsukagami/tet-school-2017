@@ -2,7 +2,7 @@
 ## NVBD
 
 ## Problem Statement
-* Cho tọa độ con châu chấu và tọa độ 2 đỉnh của một hình chữ nhật trong trục tọa độ Oxy.
+* Cho tọa độ con châu chấu và tọa độ 2 đỉnh đối diện của một hình chữ nhật trong trục tọa độ Oxy.
 * Tìm khoảng cách nhỏ nhất từ con châu chấu đến hình chữ nhật.
 
 ## Required Skills
