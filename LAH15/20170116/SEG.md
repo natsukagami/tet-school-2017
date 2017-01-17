@@ -13,4 +13,4 @@ Trên trục số người ta sơn n đoạn thẳng, đoạn thẳng thứ i c�
 ![alt-text](http://i.imgur.com/9RfHfgG.png)
 
 ## Conclusion
-Bài này thật là trí tuệ, nhất là đoạn xét từ trái sang phải. Chắc chắn sẽ còn nhiều bài khó hơn dùng tư tưởng tưởng chừng như hiển nhiên này.
+Tư tưởng xét từ trái sang phải là một tư tưởng tuy đơn giản, nhưng nó sẽ giúp trong rất nhiều bài toán hơn.
