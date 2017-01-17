@@ -1,7 +1,8 @@
 # SEG
 ## Nguyễn Đức Huy
 
-## Trên trục số người ta sơn n đoạn thẳng, đoạn thẳng thứ i có 2 đầu mút ai và bi. Một số đoạn liên tiếp có thể chồng lên nhau một phần hoặc nằm hẳn bên trong nhau. Cuối cùng, sẽ có một số đoạn được sơn rời nhau. Hãy xác định số lượng các đoạn thẳng như thế và chiều dài của đoạn dài nhất.
+## Problem Statement
+Trên trục số người ta sơn n đoạn thẳng, đoạn thẳng thứ i có 2 đầu mút ai và bi. Một số đoạn liên tiếp có thể chồng lên nhau một phần hoặc nằm hẳn bên trong nhau. Cuối cùng, sẽ có một số đoạn được sơn rời nhau. Hãy xác định số lượng các đoạn thẳng như thế và chiều dài của đoạn dài nhất.
 
 ## Required Skills
 - Thuật toán sắp xếp.
