@@ -20,7 +20,7 @@
 * Dễ thấy khoảng cách ngắn nhất tính từ con châu chấu đến hình chữ nhật trong TH1 là 0.
 * Ở TH2, khoảng cách ngắn nhất tính từ con châu chấu đến hình chữ nhật là đường cao kẻ từ con châu chấu xuống cạnh gần nó nhất (Dễ dàng tính được khoảng cách đó vì các cạnh hình chữ nhật song song với trục tọa độ).
 * Ở TH3, ta lấy khoảng cách ngắn nhất tính từ con châu chấu đến hình chữ nhật là min của khoảng cách từ con châu chấu đến 4 đỉnh của hình chữ nhật. 
- *d=sqrt((x1-x2) * (x1-x2)+(y1-y2) * (y1-y2)) , với d là khoảng cách từ điểm (x1,y1) đến (x2,y2).
+* d=sqrt((x1-x2) * (x1-x2)+(y1-y2) * (y1-y2)) , với d là khoảng cách từ điểm (x1,y1) đến (x2,y2).
 
 ## Conclusion
 * Nếu không cẩn thận dễ bị sai số ở TH3.

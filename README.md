@@ -6,6 +6,10 @@
 
 Suppose a problem named `PALIN` given by Duy on 2017/Jan/15, the editorial link should be `Duy/20170115/PALIN.md`.
 
+If the problem comes from LAH the link should be like `LAH16/20170115/ROPE.md`.
+
+Code, if included, goes into `Duy/20170115/PALIN.cpp`.
+
 If the problem source is from an online link, it should be included in the editorial.
 
 Else, should it be `Duy/20170115/PALIN.pdf` or such.
@@ -13,7 +17,7 @@ Else, should it be `Duy/20170115/PALIN.pdf` or such.
 ### Editorial Template
 
 ```markdown
-# [Problem Name]
+# [Problem Name] (Source if needed)
 ## [Editorial Author]
 
 ## Problem Statement
