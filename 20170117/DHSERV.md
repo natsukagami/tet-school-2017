@@ -1,21 +1,22 @@
 # DHSERV 
+* http://vn.spoj.com/problems/DHSERV/
 ## Nguyễn Minh Tùng
 
 ## Problem Statement
 * Cho một đồ thị với n đỉnh và m cạnh
 
-* Chúng ta có thể đi từ đỉnh u đến v qua đỉnh s khi mà chỉ khi có cạnh nối giữa u-s và s-v và đỉnh s đã được bật
+* Chúng ta có thể đi từ đỉnh u đến v qua đỉnh s khi mà chỉ khi có cạnh nối giữa u-s và s-v, và đỉnh s đã được bật. Hay nói một cách khác thì một đường đi giữa hai đỉnh tồn tại khi mà chỉ khi các đỉnh trung gian trên đường đi đã được bật.
 
 * Ban đầu các đỉnh đều bị tắt
 * Có 2 truy vấn:
 
- 1.bật đỉnh thứ i. 
+ 1. Truy vấn có dạng 1 i: bật đỉnh thứ i. 
 
- 2.tìm đường đi nhỏ nhất từ u đến v với u, v bất kì nhỏ hơn hoặc bằng n.
+ 2. Truy vấn có dạng 2 u v: tìm đường đi nhỏ nhất từ u đến v với u, v bất kì nhỏ hơn hoặc bằng n. Nếu không tồn tại đường đi thì in ra -1.
 
 ## Required Skills
-* Thuật toán tìm đường đi ngắn nhất.
-* Một cốc trà và bánh (à xàm thôi không cần cũng không sao)
+* Thuật toán tìm đường đi ngắn nhất (thuật toán Floyd).
+* Một cốc trà và bánh (à xàm thôi không cần cũng không sao).
 
 ## Step-by-Step Solution
 * Dễ thấy rằng u,v không cố định nên ta nên dùng thuật toán Floyd. Ta gọi d[i][j] là đường đi ngắn nhất từ i đến j.
