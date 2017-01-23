@@ -20,7 +20,7 @@ Ta sẽ đi chứng minh điều này đúng. Nếu điểm này thuộc một �
 Vậy ta có thể đi đến một lời giải như sau: Nhét hết tất cả các điểm đầu mút và các điểm trong tập _{p}_ vào một mảng, sắp xếp lại mảng đó. Sau khi có mảng các đầu mút và các điểm cần xét, lấy _k_ là số đoạn thẳng đi qua các điểm hiện tại. Đến đây, đơn giản là duyệt mảng, với mỗi phần tử là đầu mút trái ta tăng _k_, với mỗi phần tử là điểm truy vấn thuộc _{p}_ thì ta cho kết quả ở điểm đấy là _k_ và gặp điểm đầu mút phải thì ta giảm _k_ đi 1. 
 Chú ý thứ tự ưu tiên xử lí khi các điểm cùng tọa độ: Mút trái trước, điểm mình cần truy vấn rồi mới đến điểm kết thúc.  
 Lí do: Nếu một điểm thuộc đầu mút trái hoặc mút phải của một đoạn thẳng thì nó vẫn thuộc đoạn thẳng. Vì vậy, ta phải tăng số _k_ khi gặp mút trái trước, xử lí truy vấn rồi mới _k_ khi gặp mút phải để tránh tính thiếu và tính thừa.  
-Để cho dễ hiểu hơn, các bạn có thể xem code ở [đây](https://github.com/natsukagami/tet-school-2017/tree/master/LAH15/20170116/Code/point.cpp).
+Để cho dễ hiểu hơn, các bạn có thể xem code ở [đây](https://github.com/natsukagami/tet-school-2017/blob/master/20170116/LAH15/Code/point.cpp).
 
 ## Conclusion
 * Điều quan trọng nhất của bài là phải nhận ra mình có thể xử lí điểm mút trái và mút phải độc lập.
