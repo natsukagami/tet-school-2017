@@ -21,7 +21,7 @@ Else, should it be `20170115/Duy/PALIN.pdf` or such.
 ## [Editorial Author]
 
 ## Problem Statement
-[Minified Statement goes here]
+[Modified Statement goes here]
 
 ## Required Skills
 - Skill 1
