@@ -26,6 +26,7 @@ Else, should it be `20170115/Duy/PALIN.pdf` or such.
 ## Required Skills
 - Skill 1
 - Skill 2
+- Skill 3
 
 ## Step-by-Step Solution
 [Solution goes here]
